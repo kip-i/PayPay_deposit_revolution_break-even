@@ -1,1 +1,5 @@
-# PayPay_deposit_revolution_break-even
+### PayPay銀行の普通預金革命
+ドル円がどの程度変動したら損してするかを計算する。
+
+### 結果
+ドル円147円で損をする。
